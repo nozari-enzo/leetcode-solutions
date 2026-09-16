@@ -10,6 +10,7 @@ Coleção das minhas soluções de exercícios do [LeetCode](https://leetcode.co
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | Fácil | Pandas | [Ver solução](./2878-get-the-size-of-a-dataframe) |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | Fácil | JavaScript, Closures | [Ver solução](./2667-create-hello-world-function) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | Fácil | JavaScript, Closures | [Ver solução](./2620-counter) |
+| 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | Fácil | JavaScript, Closures | [Ver solução](./2704-to-be-or-not-to-be) |
 
 
 
