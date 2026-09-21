@@ -11,6 +11,7 @@ Coleção das minhas soluções de exercícios do [LeetCode](https://leetcode.co
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | Fácil | JavaScript, Closures | [Ver solução](./2667-create-hello-world-function) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | Fácil | JavaScript, Closures | [Ver solução](./2620-counter) |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | Fácil | JavaScript, Closures | [Ver solução](./2704-to-be-or-not-to-be) |
+| 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | Fácil | JavaScript, Closures | [Ver solução](./2665-counter-ii) |
 
 
 
