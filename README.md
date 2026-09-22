@@ -12,6 +12,7 @@ Coleção das minhas soluções de exercícios do [LeetCode](https://leetcode.co
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | Fácil | JavaScript, Closures | [Ver solução](./2620-counter) |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | Fácil | JavaScript, Closures | [Ver solução](./2704-to-be-or-not-to-be) |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | Fácil | JavaScript, Closures | [Ver solução](./2665-counter-ii) |
+| 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | Fácil | JavaScript, Array, Higher-Order Function | [Ver solução](./2635-apply-transform-over-each-element-in-array) |
 
 
 
