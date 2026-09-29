@@ -15,7 +15,7 @@ Coleção das minhas soluções de exercícios do [LeetCode](https://leetcode.co
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | Fácil | JavaScript, Array, Higher-Order Function | [Ver solução](./2635-apply-transform-over-each-element-in-array) |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | Fácil | JavaScript, Array, Higher-Order Function | [Ver solução](./2634-filter-elements-from-array) |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | Fácil | JavaScript, Array, Higher-Order Function | [Ver solução](./2626-array-reduce-transformation) |
-
+| 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | Fácil | JavaScript, Closures, Array | [Ver solução](./2629-function-composition) |
 
 
 ## Estrutura
