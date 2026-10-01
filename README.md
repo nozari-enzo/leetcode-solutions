@@ -21,3 +21,15 @@ Coleção das minhas soluções de exercícios do [LeetCode](https://leetcode.co
 ## Estrutura
 
 Cada problema resolvido gera automaticamente uma pasta própria (`NNNN-nome-do-problema`), contendo o enunciado e o código da solução.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/nozari-enzo/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/nozari-enzo/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+<!---LeetCode Topics End-->
