@@ -17,6 +17,7 @@ Coleção das minhas soluções de exercícios do [LeetCode](https://leetcode.co
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | Fácil | JavaScript, Array, Higher-Order Function | [Ver solução](./2626-array-reduce-transformation) |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | Fácil | JavaScript, Closures, Array | [Ver solução](./2629-function-composition) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Fácil | Programming Skills, Strings | [Ver solução](./1768-merge-strings-alternately) |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Fácil | Java, Math | [Ver solução](./2235-add-two-integers) |
 
 
 ## Estrutura
