@@ -33,9 +33,22 @@ Cada problema resolvido gera automaticamente uma pasta própria (`NNNN-nome-do-p
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/nozari-enzo/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1768-merge-strings-alternately](https://github.com/nozari-enzo/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/nozari-enzo/leetcode-solutions/tree/master/2235-add-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/nozari-enzo/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/nozari-enzo/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/nozari-enzo/leetcode-solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
