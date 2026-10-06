@@ -19,6 +19,7 @@ Coleção das minhas soluções de exercícios do [LeetCode](https://leetcode.co
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Fácil | Programming Skills, Strings | [Ver solução](./1768-merge-strings-alternately) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Fácil | Java, Math | [Ver solução](./2235-add-two-integers) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Fácil | Hash Table, String, Bit Manipulation, Sorting | [Ver solução](./0389-find-the-difference) |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Fácil | Math, String, Bit Manipulation, Simulation | [Ver solução](./0067-add-binary) |
 
 
 ## Estrutura
