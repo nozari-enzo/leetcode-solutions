@@ -21,6 +21,7 @@ Coleção das minhas soluções de exercícios do [LeetCode](https://leetcode.co
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Fácil | Hash Table, String, Bit Manipulation, Sorting | [Ver solução](./0389-find-the-difference) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Fácil | Math, String, Bit Manipulation, Simulation | [Ver solução](./0067-add-binary) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Fácil | Java, Array, Prefix Sum | [Ver solução](./1480-running-sum-of-1d-array) |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Fácil | Two Pointers, String, String Matching | [Ver solução](./0028-find-the-index-of-the-first-occurrence-in-a-string) |
 
 
 ## Estrutura
